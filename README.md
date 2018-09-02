@@ -6,3 +6,4 @@ Feature List :
 - User Profile form
 - Input kehadiran form : in, out, leave, notes
 - view form 
+- report xls dan pdf
